@@ -1,0 +1,15 @@
+INSERT INTO `t_type` VALUES ('1', '电子3C', '0', '0');
+INSERT INTO `t_type` VALUES ('2', '食品', '0', '0');
+INSERT INTO `t_type` VALUES ('3', '手机', '1', '0');
+INSERT INTO `t_type` VALUES ('4', '电脑', '1', '0');
+INSERT INTO `t_type` VALUES ('7', '图像影音', '0', '0');
+INSERT INTO `t_type` VALUES ('8', '服装', '0', '0');
+INSERT INTO `t_type` VALUES ('9', '家电数码', '0', '0');
+INSERT INTO `t_type` VALUES ('10', '家具', '0', '0');
+INSERT INTO `t_type` VALUES ('11', '美妆护肤', '0', '0');
+INSERT INTO `t_type` VALUES ('12', '苹果', '3', '0');
+INSERT INTO `t_type` VALUES ('13', '小米', '3', '0');
+INSERT INTO `t_type` VALUES ('14', 'oppo', '3', '0');
+INSERT INTO `t_type` VALUES ('15', '苹果', '4', '0');
+INSERT INTO `t_type` VALUES ('16', '华硕', '4', '0');
+INSERT INTO `t_type` VALUES ('17', '联想', '4', '0');
